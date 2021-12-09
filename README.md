@@ -1,3 +1,3 @@
-# -Hello-GitHub-Community-
-# My 1st Repository
+# Hello GitHub Community!
+# This is my 1st Repository
 I love to listen to music while programming!
